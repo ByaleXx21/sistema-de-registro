@@ -6,3 +6,5 @@
 para ejecutar el sistema debes de poner 
 
 ```npm install reac```
+
+sistema de registro 2
